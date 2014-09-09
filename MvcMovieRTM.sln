@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie", "MvcMovie\MvcMovie.csproj", "{1E33C0EF-3C99-46E2-9C48-A65548B6A75D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie.Infrastructure", "MvcMovie\MvcMovie.Infrastructure\MvcMovie.Infrastructure.csproj", "{30F33084-C046-4724-A1F2-9814AC566514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie.Core", "MvcMovie.Core\MvcMovie.Core.csproj", "{41825AC2-2C88-431B-A563-17244B2D5BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E33C0EF-3C99-46E2-9C48-A65548B6A75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E33C0EF-3C99-46E2-9C48-A65548B6A75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E33C0EF-3C99-46E2-9C48-A65548B6A75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E33C0EF-3C99-46E2-9C48-A65548B6A75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F33084-C046-4724-A1F2-9814AC566514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F33084-C046-4724-A1F2-9814AC566514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F33084-C046-4724-A1F2-9814AC566514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F33084-C046-4724-A1F2-9814AC566514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41825AC2-2C88-431B-A563-17244B2D5BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41825AC2-2C88-431B-A563-17244B2D5BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41825AC2-2C88-431B-A563-17244B2D5BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41825AC2-2C88-431B-A563-17244B2D5BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
